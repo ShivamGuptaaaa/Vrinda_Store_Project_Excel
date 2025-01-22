@@ -2,6 +2,8 @@
 
 This project focuses on analyzing sales data for **Vrinda Store** to derive insights and make data-driven business decisions. The analysis highlights customer trends, top-performing regions, and actionable strategies to boost sales.
 
+![Gender Trends](https://github.com/your-username/your-repo-name/blob/main/gender_trends.png)
+
 ---
 
 ## **Key Insights**
